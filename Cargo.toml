@@ -1,3 +1,7 @@
+[toolchain]
+channel = "stable"
+components = ["rust-analyzer"]
+
 [package]
 name = "maze-rust"
 version = "0.1.0"
